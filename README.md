@@ -1,11 +1,14 @@
 # Madhav_Store_Sales_Dashboard_Power-bI
 Project Objective:
+
 The owner of Madhav store want us to help them create a dashboard to track and analyze their online sales across India.
 
 Dataset Description:
+
 The Dataset contains information on various category and sub-category and their details.
 
 Data Source:
+
 The sales data is stored in CSV format, split across two files. The following steps were followed in the project:
 
 Extract the Data: The sales data was extracted from the provided CSV files.
