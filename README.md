@@ -17,6 +17,7 @@ Transform the Data: Power BI's Power Query editor was utilized to transform and 
 
 Load the Data in Power BI: The transformed data was loaded into Power BI for visualization and analysis.
 
+
 Insights :
 
 1.Maximum profit earned by Maharashtra State followed by Madhya Pradesh.
@@ -30,6 +31,7 @@ Insights :
 5.Most of the people have made their payment using credit card and COD mode.
 
 6.The Total profit of Madhav store including all state is 37k INR
+
 
 Learning Outcomes:
 
